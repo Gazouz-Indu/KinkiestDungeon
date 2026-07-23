@@ -725,7 +725,7 @@ Les anciens noyaux d’alimentation se cassent avec l’utilisation et ne peuven
 - Unchained
 Déchaîné
 - Start with high Metal reputation, and all metal restraints are easier to escape from.
-Commencez avec une haute réputation en métal, et toutes les contraintes métalliques sont plus faciles à échapper.
+Commence avec une haute réputation en métal, et toutes les contraintes métalliques sont plus faciles à échapper.
 - Damsel in Chains
 Damoiselle aux chaînes
 - Metal restraints are harder to escape from.
@@ -756,7 +756,7 @@ Ton échappée est 3 fois plus rapide, mais moins efficace en termes d’enduran
 - Escape Artist
 Spécialiste de l'évasion
 - Start with high Rope reputation, and all rope restraints are easier to escape from.
-Commencez avec une réputation élevée de corde, et toutes les entraves en corde sont plus faciles à échapper.
+Commence avec une réputation élevée de corde, et toutes les entraves en corde sont plus faciles à échapper.
 - Rope Bunny
 Lapin encordé
 - Rope restraints are harder to escape from.
@@ -765,7 +765,7 @@ Les liens de corde sont plus difficiles à retirer.
 - Slippery
 Glissant
 - Start with high Latex reputation, and all latex restraints are easier to escape from.
-Commencez avec une réputation élevée en latex, et toutes les entraves en latex sont plus faciles à échapper.
+Commence avec une réputation élevée en latex, et toutes les entraves en latex sont plus faciles à échapper.
 - Latex Doll
 Poupée en latex
 # :: KinkyDungeonStat31
@@ -777,7 +777,7 @@ Les entraves en latex sont plus difficiles à échapper.
 - Escapee
 Évadée
 - Start with high Leather reputation, and all leather restraints are easier to escape from.
-Commencez avec une grande réputation en cuir, et toutes les attaches en cuir sont plus faciles à éviter.
+Commence avec une grande réputation en cuir, et toutes les attaches en cuir sont plus faciles à éviter.
 - Leather-Bound
 Lié au cuir
 - Leather restraints are harder to escape from.
@@ -786,19 +786,19 @@ Les entraves en cuir sont plus difficiles à défaire.
 - Slayer
 Pourfendeur
 - You can cast Elemental spells without having the components, at twice the cost. Start w/ Firebolt.
-Tu peux lancer des sorts élémentaires sans avoir les composants, à un coût deux fois plus élevé. Commencez avec Firebolt.
+Tu peux lancer des sorts élémentaires sans avoir les composants, à un coût deux fois plus élevé. Commence avec Firebolt.
 - Conjurer
 Prestidigitateur
 # :: KinkyDungeonStat35
 # :: KDLoreLabelen.Conjure
 - You can cast Conjuration spells without having the components, at twice the cost. Start w/ Conjure Chain.
-Tu peux lancer des sorts de conjuration sans en avoir les composants, à un coût deux fois plus élevé. Commencez avec Invacation de Chaîne.
+Tu peux lancer des sorts de conjuration sans en avoir les composants, à un coût deux fois plus élevé. Commence avec Invacation de Chaîne.
 - Magician
 Magicienne
 # :: KinkyDungeonStat36
 # :: NameWardenMage
 - You can cast Illusion spells without having the components, at twice the cost. Start w/ Shadow Dagger.
-Tu peux lancer des sorts d’Illusion sans avoir les composants, à un coût deux fois plus élevé. Commencez avec la Dague d’Ombre.
+Tu peux lancer des sorts d’Illusion sans avoir les composants, à un coût deux fois plus élevé. Commence avec la Dague d’Ombre.
 
 - Narcoleptic
 Narcoleptique
@@ -955,29 +955,29 @@ Les ennemis peuvent ajouter des entraves sous les entraves existantes.
 - Fully Integrated
 Entièrement intégré
 - Start with your body sealed in an adhesive layer of latex.
-Commencez avec ton corps scellé dans une couche adhésive de latex.
+Commence avec ton corps scellé dans une couche adhésive de latex.
 
 - Doll Processing
 Traitement de poupée
 - Start atop a conveyor on your way to be sealed away inside the Facility.
-Commencez au sommet d’un convoyeur sur ton chemin pour être scellé à l’intérieur de l’installation.
+Commence au sommet d’un convoyeur sur ton chemin pour être scellé à l’intérieur de l’installation.
 - Cyber Doll
 Cyber poupée
 - Start in full Cyber restraints.
-Commencez en restriction cybernétique compète.
+Commence en restriction cybernétique compète.
 - Fuuka's Pet
 Animal de Fuuka
 # :: KinkyDungeonStatFuukaCollar
 # :: KDPlayerTitle_FuukaRestGood
 - Start with Fuuka's collar and a few restraints.
-Commencez avec le collier de Fuuka et quelques entraves.
+Commence avec le collier de Fuuka et quelques entraves.
 ### - Fuuka Fan Club
 - All humanoids that can bind you also apply Fuuka's special restraints.
 Tous les humanoïdes qui peuvent te lier appliquent également les contraintes spéciales de Fuuka.
 - Collected
 Collecté
 - Start with The Warden's special belt which punishes you for defiling spell orbs.
-Commencez avec la ceinture spéciale du Gardien qui te punit pour avoir souillé des orbes de sorts.
+Commence avec la ceinture spéciale du Gardien qui te punit pour avoir souillé des orbes de sorts.
 - Enforcers
 Contrôleurs
 - All humanoids that can bind you also apply The Warden's cuffs.
@@ -1031,267 +1031,454 @@ Aucun lieu n'est sûr
 Les lits et les meubles sont souvent piégés.
 
 
-# - Quakehoof Associate
-# - Start with the Epsilon Collar, which regenerates mana when you play with yourself.
-# - Epsilon Collar
-# - A collar reserved for the most prestigious of submissives.
-# - Restores mana when you play with yourself, but increases the distraction given. Only works when Desire is below the limit.
+- Quakehoof Associate
+Affilié des Quakehoof
+- Start with the Epsilon Collar, which regenerates mana when you play with yourself.
+Commence avec le Collier Epsilon, qui régénère du mana lorsque tu te donnes du plaisir.
+- Epsilon Collar
+Collier Epsilon
+- A collar reserved for the most prestigious of submissives.
+Un collier réservé aux soumises les plus prestigieuses
+- Restores mana when you play with yourself, but increases the distraction given. Only works when Desire is below the limit.
+Restaure du mana lorsque tu te donnes du plaisir, mais augmente la distraction donnée. Ne fonctionne que lorsque le Désir est en dessous de la limite.
 
 
-# - Bullet Hell
-# - Hides warning lines for non-AoE bullets and projectiles.
-# - Bullet Armageddon
-# - Hides warning lines for AoE spells, bullets, and projectiles.
+### - Bullet Hell
+- Hides warning lines for non-AoE bullets and projectiles.
+Masque les lignes d'avertissement des balles et des projectiles qui n'ont pas de zone d'effet.
+### - Bullet Armageddon
+- Hides warning lines for AoE spells, bullets, and projectiles.
+Masque les lignes d'avertissement des sorts à zone d'effet, des balles et des projectiles.
 
-# - I have... needs
-# - Distraction builds up over time.
+- I have... needs
+J'ai... des besoins
+- Distraction builds up over time.
+La distraction augmente avec le temps.
 
-# - Hopeless
-# - Willpower decays over time.
+- Hopeless
+Désespérée
+- Willpower decays over time.
+La volonté décroît avec le temps.
 
-# - Quickness
-# - Grants Quickness after not moving for 4 turns. Quickness lets you move 1 space without ticking the clock.
-
-
-# - Expansive Halls
-# - Increases the size of maps by 3 in the long dimension. Maps will be less dense.
-# - Gargantuan Halls
-# - Increases the size of maps by 6 in the long dimension. Maps will have a mix of tunnels and dead ends.
-# - Labyrinthine Halls
-# - Increases the size of maps by 9 in the long dimension. Maps will be mostly tunnels.
-# - Absurdly Huge Maps
-# - (Experimental) Make the maps really really big. Probably breaks the game.
-
-# - Rigger
-# - Binding on enemies is 30% stronger.
-# - Pacifist
-# - All damage dealt to humanoid enemies is reduced by 90% except teasing damage and pain/grope/tickle/charm/psychic/chain/glue.
-# - Curse Seeker
-# - When you pick up cursed armor or restraints from chests, they equip automatically if able.
-
-# - Burning Desire
-# - While above 70% distraction, you ignite nearby objects and gain +25% fire damage.
-# - Frigid Personality
-# - While below 10% distraction, you gain +10% ice damage and can walk on ice without penalties.
-
-# - Grounded in Reality
-# - While at max mana, your attacks deal an additional 30% of their base damage as electric damage.
-# - Like the Wind
-# - While above 95% stamina, you gain +30 Evasion and your slow level is reduced by 1.
-
-# - Immovable Object
-# - While above 90% willpower, you gain +150 Bondage Resist and Earth buff spells cost half mana.
-# - Path of Least Resistance
-# - While at 0 WP, you gain +35 Evasion and deal 20% of your max WP as soap damage when enemies restrain you.
-
-# - Sticky Situation
-# - You take 40% more glue damage.
-# - Breathless
-# - Taking chain, poison, and crush damage makes you dizzy.
+- Quickness
+Rapidité
+- Grants Quickness after not moving for 4 turns. Quickness lets you move 1 space without ticking the clock.
+Confère Rapidité après être resté immobile pendant 4 tours. Rapidité te permet de te déplacer d'une case sans faire avancer le temps.
 
 
+- Expansive Halls
+Salles spacieuses
+- Increases the size of maps by 3 in the long dimension. Maps will be less dense.
+Augmente de 3 cases la dimension la plus longue des cartes. Les cartes seront moins denses.
+- Gargantuan Halls
+Salles gargantuesques
+- Increases the size of maps by 6 in the long dimension. Maps will have a mix of tunnels and dead ends.
+Augmente de 6 cases la dimension la plus longue des cartes. Les cartes auront un mélange de tunnels et d’impasses.
+- Labyrinthine Halls
+Salles labyrinthiques
+- Increases the size of maps by 9 in the long dimension. Maps will be mostly tunnels.
+Augmente de 9 cases la dimension la plus longue des cartes. Les cartes seront principalement des tunnels.
+- Absurdly Huge Maps
+Cartes absurdement énormes
+- (Experimental) Make the maps really really big. Probably breaks the game.
+(Expérimental) Fais en sorte que les cartes soient vraiment très grandes. Cela casse probablement le jeu.
 
-# - Kinky Prisoner
-# - Guards won't remove restraints unless they have something tighter. +10 Security level.
+- Rigger
+Entraveur
+- Binding on enemies is 30% stronger.
+Les entraves que tu appliques aux ennemis sont 30 % plus efficaces.
+- Pacifist
+Pacifiste
+- All damage dealt to humanoid enemies is reduced by 90% except teasing damage and pain/grope/tickle/charm/psychic/chain/glue.
+Tous les dégâts infligés aux ennemis humanoïdes sont réduits de 90 %, à l'exception des dégâts de séduction, de douleur, de pelotage, de chatouillement, de charme, psychiques, de chaînes et de colle.
+- Curse Seeker
+Chercheur de malédictions
+- When you pick up cursed armor or restraints from chests, they equip automatically if able.
+Lorsque tu ramasses une armure ou des entraves maudites dans des coffres, elles s'équipent automatiquement si possible.
 
-# - Unfair Doors
-# - Doors are harder to open while your hands are bound.
-# - You rattle the doorknob uselessly and end up banging on the door.
-# - You can't quite get a grip on the doorknob.
-# - Someone hears you banging and opens the door from the other side!
-# - Someone notices you fiddling with the door and opens it from the other side!
-# - The door squeaks open as the latch wasn't fully engaged.
-# - You grab the doorknob with your wrists and flex it open.
-# - You use your flexible feet to open the door.
+- Burning Desire
+Désir ardent
+- While above 70% distraction, you ignite nearby objects and gain +25% fire damage.
+Au-dessus de 70% de distraction, tu enflammes les objets proches et gagnes +25% de dégâts de feu.
+- Frigid Personality
+Personnalité frigide
+- While below 10% distraction, you gain +10% ice damage and can walk on ice without penalties.
+En dessous de 10% de distraction, tu gagnes +10% de dégâts de glace et peux marcher sur la glace sans pénalités.
 
-# - Poor Technique
-# - Instead of fizzling, most miscasted projectiles and AoE spells will target you instead.
+- Grounded in Reality
+Ancrée dans la réalité
+- While at max mana, your attacks deal an additional 30% of their base damage as electric damage.
+À mana max, tes attaques infligent 30% de dégâts supplémentaires de base en tant que dégâts électriques.
+- Like the Wind
+Comme le vent
+- While above 95% stamina, you gain +30 Evasion and your slow level is reduced by 1.
+Au-dessus de 95% d'endurance, tu gagnes +30 d’Évasion et ton niveau de ralentissement est réduit de 1.
 
+- Immovable Object
+Objet fixe
+- While above 90% willpower, you gain +150 Bondage Resist and Earth buff spells cost half mana.
+Tant que ta volonté est supérieure à 90 %, tu gagnes +150 de Résistance aux entraves et les sorts de renforcement de Terre coûtent deux fois moins de mana.
+- Path of Least Resistance
+Chemin de la moindre résistance
+- While at 0 WP, you gain +35 Evasion and deal 20% of your max WP as soap damage when enemies restrain you.
+À 0 % de volonté, tu gagnes +35 en Évasion et infligez des dégâts de savon équivalents à 20 % de ta volonté maximale lorsque des ennemis te entravent.
 
-
-# - Ticklish
-# - You take 50% more tickle damage.
-# - Stoic
-# - You gain +82 tickle resist.
-
-# - Lascivious
-# - You take 50% more grope damage.
-# - Unperturbed
-# - You gain +82 grope resist.
-
-# - Masochist
-# - Pain is strongly arousing.
-# - Pain Tolerance
-# - You gain +200 pain resist.
-
-# - Fashionable
-# - When you are jailed, you keep your outfit.
-
-# - Futile Struggles
-# - Lose 2 WP every time you remove a non-trivial restraint.
-
-# - Second Wind
-# - Regenerate WP when unimpaired, up to 10% of max WP. Unimpaired means no arm, hand, leg, blindfold, gag, or slows. (Upgrade available in spell tree)
-# - Second Wind Perk
-# - Regenerate WP when you are unimpaired, up to 10% of max WP. Unimpaired means no arm, hand, leg, blindfold, or gag bondage, and no slows.
-# - Triumphant Wind
-# - Second Wind now regenerates up to 25% of your max WP
-# - Mental Defiance
-# - Passive: Losing WP from edging, letting go, or teasing damage stores 'Defiance', capped at the value of your missing DP. Toggle: While below 25% WP, quickly convert 'Defiance' into WP.
-# - Mental Fortitude
-# - Passive: Losing WP from edging, letting go, or teasing damage stores 'Defiance', capped at the value of your missing DP. Toggle: While above 75% WP but below 100%, quickly convert 'Defiance' into WP. Exclusive with Mental Defiance.
+- Sticky Situation
+Situation collante
+- You take 40% more glue damage.
+Tu prends 40% de dégâts de colle en plus.
+- Breathless
+Essoufflé
+- Taking chain, poison, and crush damage makes you dizzy.
+Prendre des dégâts de chaîne, de poison et d’écrasement te donnes le vertige.
 
 
-# - Locked Up
-# - While wearing a chastity belt, your Desire lowers when you perform actions such as defeating enemies, opening chests, and breaking orbs. (Upgrades available in spell tree)
-# - Locked Up Perk
-# - While wearing a chastity belt, your Desire lowers when you perform actions such as capturing, opening chests, and breaking orbs.
-# - Controlled Urges
-# - Locked Up is 150% effective. Gain +70 psychic/charm resist from a chastity belt and +30 from a chastity bra. While not wearing a chastity belt, your Desire increases slowly.
-# - Ready for Training
-# - Locked Up is 200% effective. +25% stamina regen per 100 current DP. Playing with yourself is less effective while vibrators are off or set to edge. Slow level is increased by 1 when you aren't wearing any chastity.
-# - Efficient Denial
-# - Locked Up is 300% effective. When Locked Up triggers, you gain -30% mana costs and +25% physical damage for 7 turns (35 when opening a chest or breaking orbs). You cannot orgasm unless you are wearing a chastity belt, and slow level is increased by 2.
-# - Recalcitrant
-# - Relinquish the Locked Up perk. One time only. If you take the perk again, there is no going back.
 
-# - Novice Pet
-# - You can now sprint while wearing a petsuit. (Upgrades available in spell tree)
-# - Novice Pet Training
-# - You can now sprint while wearing a petsuit.
-# - Eager Pet
-# - +1 slow reduction while wearing a petsuit, but sprint costs are increased by 30% when not wearing a petsuit.
-# - Experienced Pet
-# - +2 slow reduction total while wearing a petsuit (from +1), but sprint costs are increased by 100% (from 30%) when not wearing a petsuit and slow level is increased by +1.
-# - Devoted Pet
-# - +3 slow reduction total while wearing a petsuit (from +2), but you cannot sprint (from +100% cost) when not wearing a petsuit and slow level is increased by +2 (from +1).
-# - Bad Pet
-# - Relinquish the Novice Pet perk. One time only. If you take the perk again, there is no going back.
-# - You are an expert in wearing a petsuit and your mobility is increased.
-# - ${You} ${Yis} too used to wearing petsuits! Sprinting is impaired.
-# - ${You} ${Yis} a disobedient pet. ${You} should put on a petsuit!
+- Kinky Prisoner
+Prisonnière kinky
+- Guards won't remove restraints unless they have something tighter. +10 Security level.
+Les gardes ne retireront pas les entraves à moins d’avoir quelque chose de plus serré. +10 Niveau de sécurité.
 
-# - Dominant
+- Unfair Doors
+Portes injustes
+- Doors are harder to open while your hands are bound.
+Les portes sont plus difficiles à ouvrir lorsque tes mains sont liées.
+- You rattle the doorknob uselessly and end up banging on the door.
+Tu secoues inutilement la poignée de porte et finis par frapper à la porte.
+- You can't quite get a grip on the doorknob.
+Tu n’arrives pas à agripper la poignée de porte.
+- Someone hears you banging and opens the door from the other side!
+Quelqu’un t’entend frapper et ouvre la porte de l’autre côté !
+- Someone notices you fiddling with the door and opens it from the other side!
+Quelqu’un te remarque en train de tripoter la porte et l’ouvre depuis l’autre côté !
+- The door squeaks open as the latch wasn't fully engaged.
+La porte grince en s’ouvrant car le loquet n’était pas complètement enclenché.
+- You grab the doorknob with your wrists and flex it open.
+Tu attrapes la poignée de porte avec tes poignets et l’ouvres en la faisant fléchir.
+- You use your flexible feet to open the door.
+Tu utilises tes pieds flexibles pour ouvrir la porte.
+- Poor Technique
+Mauvaise technique
+- Instead of fizzling, most miscasted projectiles and AoE spells will target you instead.
+Au lieu d'échouer, la plupart des projectiles et sorts de zone ratés te cibleront à la place.
+
+
+
+- Ticklish
+Chatouilleuse
+- You take 50% more tickle damage.
+Tu prends 50% plus de dégâts de chatouilles.
+- Stoic
+Stoïque
+- You gain +82 tickle resist.
+Tu gagne +82 de résistance aux chatouilles.
+
+- Lascivious
+Lascif
+- You take 50% more grope damage.
+Tu subis 50% de dégâts de tripotage en plus.
+- Unperturbed
+Imperturbable
+- You gain +82 grope resist.
+Tu gagnes +82 de résistance au tripotage.
+
+- Masochist
+Masochiste
+- Pain is strongly arousing.
+La douleur est fortement éxcitante.
+- Pain Tolerance
+Tolérance à la douleur
+- You gain +200 pain resist.
+Tu gagnes +200 de résistance à la douleur.
+- Fashionable
+À la mode
+- When you are jailed, you keep your outfit.
+Quand tu es emprisonné, tu gardes ta tenue.
+
+- Futile Struggles
+Efforts vains
+- Lose 2 WP every time you remove a non-trivial restraint.
+Perds 2 points de Volonté chaque fois que tu retires une entrave non négligeable.
+
+- Second Wind
+Second souffle
+- Regenerate WP when unimpaired, up to 10% of max WP. Unimpaired means no arm, hand, leg, blindfold, gag, or slows. (Upgrade available in spell tree)
+Régénère de la Volonté lorsque tu n'es pas entravé, jusqu'à 10 % de ta Volonté maximale. tu dois avoir les bras, les mains et les jambes libres, ne pas être bâillonné, aveuglé ou ralenti. (Amélioration disponible dans l'arbre de sorts.)
+- Second Wind Perk
+Atout second souffle
+- Regenerate WP when you are unimpaired, up to 10% of max WP. Unimpaired means no arm, hand, leg, blindfold, or gag bondage, and no slows.
+Régénère de la Volonté lorsque tu n'es pas entravé, jusqu'à 10 % de ta Volonté maximale. tu dois avoir les bras, les mains et les jambes libres, ne pas être bâillonné, aveuglé ou ralenti.
+- Triumphant Wind
+Souffle triomphant
+- Second Wind now regenerates up to 25% of your max WP
+Second souffle régénère désormais jusqu'à 25 % de ta Volonté maximale.
+- Mental Defiance
+Défi mental
+- Passive: Losing WP from edging, letting go, or teasing damage stores 'Defiance', capped at the value of your missing DP. Toggle: While below 25% WP, quickly convert 'Defiance' into WP.
+Passif : Perdre de la Volonté à cause de l'edging, du lâcher-prise ou des dégâts de séduction accumule de la Défiance, jusqu'à concurrence de ta DP manquant. Activation : Tant que ta Volonté est inférieure à 25 %, convertit rapidement la Défiance en Volonté.
+- Mental Fortitude
+Force mentale
+- Passive: Losing WP from edging, letting go, or teasing damage stores 'Defiance', capped at the value of your missing DP. Toggle: While above 75% WP but below 100%, quickly convert 'Defiance' into WP. Exclusive with Mental Defiance.
+Passif : Perdre de la Volonté à cause de l'edging, du lâcher-prise ou des dégâts de séduction accumule de la Défiance, jusqu'à concurrence de ta DP manquant. Activation : Tant que ta Volonté est supérieure à 75 % mais inférieure à 100 %, convertit rapidement la Défiance en Volonté. Incompatible avec Défi mental.
+
+
+### - Locked Up
+- While wearing a chastity belt, your Desire lowers when you perform actions such as defeating enemies, opening chests, and breaking orbs. (Upgrades available in spell tree)
+Lorsque tu portes une ceinture de chasteté, ton désir diminue lorsque tu effectues des actions telles que vaincre des ennemis, ouvrir des coffres et casser des orbes (améliorations disponibles dans l’arbre des sorts).
+- Locked Up Perk
+Atout Locked Up
+- While wearing a chastity belt, your Desire lowers when you perform actions such as capturing, opening chests, and breaking orbs.
+Lorsque tu portes une ceinture de chasteté, ton Désir s’abaisse lorsque tu effectues des actions telles que la capture, l’ouverture de coffres et le bris d’orbes.
+- Controlled Urges
+Pulsions maîtrisées
+- Locked Up is 150% effective. Gain +70 psychic/charm resist from a chastity belt and +30 from a chastity bra. While not wearing a chastity belt, your Desire increases slowly.
+Locked Up est 150 % plus efficace. Gagnez +70 en Résistance psychique et au Charme grâce à une ceinture de chasteté, et +30 grâce à un soutien-gorge de chasteté. En l'absence de ceinture de chasteté, ton Désir augmente lentement.
+- Ready for Training
+Prêt pour l'entraînement
+- Locked Up is 200% effective. +25% stamina regen per 100 current DP. Playing with yourself is less effective while vibrators are off or set to edge. Slow level is increased by 1 when you aren't wearing any chastity.
+Locked Up est efficace à 200%. +25% de régénération d’endurance pour 100 DP actuels. Te donner du plaisir est moins efficace lorsque les vibromasseurs sont éteints ou réglés sur l'edge. Le niveau de ralentissement est augmenté de 1 lorsque tu ne portes aucune chasteté.
+- Efficient Denial
+Déni efficace
+- Locked Up is 300% effective. When Locked Up triggers, you gain -30% mana costs and +25% physical damage for 7 turns (35 when opening a chest or breaking orbs). You cannot orgasm unless you are wearing a chastity belt, and slow level is increased by 2.
+Locked Up est 300% plus efficace. Lorsque Locked Up se déclenche, tu gagnes -30% de coût en mana et +25% de dégâts physiques pendant 7 tours (35 tours lors de l'ouverture d'un coffre ou de la destruction d'orbes). Tu ne peux pas avoir d'orgasme sauf si tu portes une ceinture de chasteté, et ton niveau de ralentissement augmente de 2.
+- Recalcitrant
+Récalcitrant
+- Relinquish the Locked Up perk. One time only. If you take the perk again, there is no going back.
+Renonce à l'atout Locked Up. Une seule fois. Si tu reprends l’avantage, il n’y a pas de retour possible.
+
+- Novice Pet
+Animal novice
+- You can now sprint while wearing a petsuit. (Upgrades available in spell tree)
+Tu peux désormais sprinter tout en portant une petsuit (améliorations disponibles dans l’arbre des sorts).
+- Novice Pet Training
+Formation Animal novice
+- You can now sprint while wearing a petsuit.
+Tu peux désormais sprinter tout en portant une petsuit.
+- Eager Pet
+Animal impatient
+- +1 slow reduction while wearing a petsuit, but sprint costs are increased by 30% when not wearing a petsuit.
++1 réduction lenteur en portant un petsuit, mais les coûts de sprint sont augmentés de 30 % lorsqu’on ne porte pas de petsuit.
+- Experienced Pet
+Animal expérimenté
+- +2 slow reduction total while wearing a petsuit (from +1), but sprint costs are increased by 100% (from 30%) when not wearing a petsuit and slow level is increased by +1.
++2 réduction lenteur totale en portant un petsuit (au lieu de +1), mais les coûts de sprint sont augmentés de 100% (au lieu de 30%) lorsque tu ne portes pas de petsuit et que le niveau de lenteur est augmenté de +1.
+- Devoted Pet
+Animal dévoué
+- +3 slow reduction total while wearing a petsuit (from +2), but you cannot sprint (from +100% cost) when not wearing a petsuit and slow level is increased by +2 (from +1).
++3 réduction lenteur totale en portant un petsuit (au lieu de +2), mais tu ne peux pas sprinter (à partir du coût +100%) lorsque tu ne portes pas de petsuit et que le niveau de lenteur est augmenté de +2 (au lieu de +1).
+- Bad Pet
+Mauvais animal
+- Relinquish the Novice Pet perk. One time only. If you take the perk again, there is no going back.
+Renoncez à l’avantage Animal novice. Une seule fois. Si tu reprends l’avantage, il n’y a pas de retour possible.
+- You are an expert in wearing a petsuit and your mobility is increased.
+Tu es une experte dans le port de petsuit et ta mobilité est accrue.
+- ${You} ${Yis} too used to wearing petsuits! Sprinting is impaired.
+${You} ${Yis} trop habitué à porter des petsuits ! Le sprint est entravé.
+- ${You} ${Yis} a disobedient pet. ${You} should put on a petsuit!
+${You} ${Yis} un animal de compagnie désobéissant. ${You} dois enfiler un petsuit !
+
+- Dominant
+Dominante
 # :: KinkyDungeonStatDominant
 # :: KDPersonalityDom
 # :: KDPlayerTitle_Dominant
-# - They're trapped here with you. Ghosts are more helpful, and you can bind enemies that confront you about bondage.
+- They're trapped here with you. Ghosts are more helpful, and you can bind enemies that confront you about bondage.
+Ils sont piégés ici avec toi. Les fantômes sont plus utiles, et tu peux lier les ennemis qui te confrontent à propos d'entraves.
 
-# - Stranger
-# - Randomizes your relationship to most factions.
-# - Wrong Neighborhood
-# - All factions are hostile and united against you.
-# - Bandit
+- Stranger
+Étrangère
+- Randomizes your relationship to most factions.
+Randomise ta relation avec la plupart des factions.
+- Wrong Neighborhood
+Mauvais voisinage
+- All factions are hostile and united against you.
+Toutes les factions sont hostiles et unies contre toi.
+### - Bandit
 # :: KinkyDungeonStatBandit
 # :: NamePrisonerBandit
 # :: NameBandit
 # :: m_Bandit
 # :: KDPaletteBandit
-# - Start friendly to bandits, and hostile to most other factions.
+- Start friendly to bandits, and hostile to most other factions.
+Commencer en étant amical envers les bandits et hostile envers la plupart des autres factions.
 
-# - Trespasser
-# - You lose reputation with the goddesses every time you advance a floor.
+- Trespasser
+Intrus
+- You lose reputation with the goddesses every time you advance a floor.
+Tu perds ta réputation auprès des déesses chaque fois que tu avances d’un étage.
 
-# - Prisoner
+- Prisoner
+Prisonnière
 # :: KinkyDungeonStatPrisoner
 # :: KDPrisonerStatus
 # :: KDPaletteJail
 # :: KDPlayerTitle_Jailed
-# - Start the game as a submissive prisoner wandering the halls.
+- Start the game as a submissive prisoner wandering the halls.
+Commence le jeu en tant que prisonnière soumises errant dans les couloirs.
 
-# - Rusty Bolts
-# - Most traps have a 25% misfire chance each time you step on them.
+- Rusty Bolts
+Boulons rouillés
+- Most traps have a 25% misfire chance each time you step on them.
+La plupart des pièges ont 25% de chances d’échouer à chaque fois que tu les piétines.
 
-# - Not a Pet
-# - Petsuits occur less often.
-# - Unmasked
+- Not a Pet
+Pas un animal
+- Petsuits occur less often.
+Les petsuits sont moins fréquents.
+- Unmasked
+Démasquée
 # :: KinkyDungeonStatUnmasked
 # :: KinkyDungeonStatUnmasked
-# - Hoods and full-face covering masks do not appear, but blindfolds are more powerful. Does not include kigurumi masks.
-# - Clear Vision
+- Hoods and full-face covering masks do not appear, but blindfolds are more powerful. Does not include kigurumi masks.
+Les cagoules et masques couvrant tout le visage n’apparaissent pas, mais les bandeaux sont plus puissants. N’incluent pas les masques kigurumi.
+- Clear Vision
+Vision claire
 # :: KinkyDungeonStatEasierBlindfolds
 # :: KinkyDungeonStatClearVision
-# - Items in the head slot are 10-20% easier to escape, depending on item level.
-# - Untapped Strength
-# - Gain 0.5% struggle power per floor.
-# - Bound by Gravity
-# - Lose 0.5% struggle power per floor.
-# - Painful Choice
-# - Struggle power is halved, but gain back 10% per slot you are restrained in (up to 150%). Toys don't count.
-# - No Kigurumi Masks
-# - Removes face-mimicking masks from the game.
-# - No Hoods
-# - Removes hoods from the game.
-# - No Sense Deprivation
-# - Removes sensory deprivation hood/mask from the game.
-# - Blackout
-# - Blindfolds are stronger. While blindfolded you can only see enemies next to you.
-# - No Blindfolds
-# - In most cases you will not get blindfolded, except for cloth blindfolds which can be escaped easily.
+- Items in the head slot are 10-20% easier to escape, depending on item level.
+Les objets équipés dans l'emplacement de tête sont 10 à 20 % plus faciles à retirer, selon leur niveau.
+- Untapped Strength
+Force inexploitée
+- Gain 0.5% struggle power per floor.
+Gagne 0,5% de puissance de lutte par étage.
+- Bound by Gravity
+Soumis à la gravité
+- Lose 0.5% struggle power per floor.
+Perd 0,5% de puissance de lutte par étage.
+- Painful Choice
+Choix douloureux
+- Struggle power is halved, but gain back 10% per slot you are restrained in (up to 150%). Toys don't count.
+La puissance de lutte est réduite de moitié, mais tu récupéres 10 % par emplacement dans lequel tu es entravé (jusqu'à 150 %). Les jouets ne comptent pas.
+- No Kigurumi Masks
+Pas de masques Kigurumi
+- Removes face-mimicking masks from the game.
+Retire les masques imitant le visage du jeu.
+- No Hoods
+Pas de cagoules
+- Removes hoods from the game.
+Supprime les cagoules du jeu.
+- No Sense Deprivation
+Pas de privation de sens
+- Removes sensory deprivation hood/mask from the game.
+Retire la privation sensorielle des cagoules/masques du jeu.
+### - Blackout
+- Blindfolds are stronger. While blindfolded you can only see enemies next to you.
+Les bandeaux sont plus forts. Tant que tu as les yeux bandés, tu ne peux voir que les ennemis à côté de toi.
+- No Blindfolds
+Pas de bandeaux
+- In most cases you will not get blindfolded, except for cloth blindfolds which can be escaped easily.
+Dans la plupart des cas, tu n'auras pas les yeux bandés, à l’exception des bandeaux en tissu qui peuvent s'enlever facilement.
 
-# - Total Blackout
-# - Blindfolds are extremely punishing.
-# - Poor Vision
-# - Vision radius is significantly reduced.
-# - Keen Hearing
-# - You can more easily hear enemies and their movements through walls.
-# - Archer's Eye
-# - +2 vision radius.
-# - Night Owl
-# - Your vision in dark areas is improved.
-# - Fear of the Dark
-# - Your vision in dark areas is reduced.
+- Total Blackout
+Blackout total
+- Blindfolds are extremely punishing.
+Les bandeaux sont extrêmement punitifs.
+- Poor Vision
+Vision faible
+- Vision radius is significantly reduced.
+Le rayon de vision est considérablement réduit.
+- Keen Hearing
+Ouïe fine
+- You can more easily hear enemies and their movements through walls.
+Tu peux plus facilement entendre les ennemis et leurs mouvements à travers les murs.
+- Archer's Eye
+L’œil d’Archer
+- +2 vision radius.
++2 au rayon de vision.
+- Night Owl
+Oiseau de nuit
+- Your vision in dark areas is improved.
+Ta vision dans le noir est amélioré.
+- Fear of the Dark
+Peur du noir
+- Your vision in dark areas is reduced.
+Ta vision dans le noir est réduite.
 
-# - Mutually Assured Darkness
-# - Darkness is twice as effective in hiding from enemies, but your night vision is also reduced.
-# - Stalker
-# - Darkness is twice as effective in hiding from enemies.
+- Mutually Assured Darkness
+Obscurité mutuellement assurée
+- Darkness is twice as effective in hiding from enemies, but your night vision is also reduced.
+Les ténèbres sont deux fois plus efficaces pour se cacher des ennemis, mais ta vision nocturne est également réduite.
+### - Stalker
+- Darkness is twice as effective in hiding from enemies.
+Les ténèbres sont deux fois plus efficaces pour se cacher des ennemis.
 
-# - Not a Doll
-# - You may still enter Doll Terminals, but enemies will not force you onto doll stands.
-# - No Nurses
-# - Nurses will not appear in the game.
-# - No Police
-# - Police-based bounty hunters will not appear in the game.
-# - No Brats
-# - Submissive enemies won't run away from you.
-# - Brats Only
-# - Submissive enemies will always be bratty and force you to catch them.
+- Not a Doll
+Pas une poupée
+- You may still enter Doll Terminals, but enemies will not force you onto doll stands.
+Tu peux toujours entrer dans les Terminaux de Poupées, mais les ennemis ne te forceront pas à monter sur les stands de poupées.
+- No Nurses
+Pas d'infirmières
+- Nurses will not appear in the game.
+Les infirmières n’apparaîtront pas dans le jeu.
+- No Police
+Pas de police
+- Police-based bounty hunters will not appear in the game.
+Les chasseurs de primes liés à la police n'apparaîtront pas dans le jeu.
+- No Brats
+Pas de rebelles
+- Submissive enemies won't run away from you.
+Les ennemis soumis ne fuiront plus devant toi.
+- Brats Only
+Que des rebelles
+- Submissive enemies will always be bratty and force you to catch them.
+Les ennemis soumis seront toujours grossiers et te forceront à les attraper.
 
-# - More Tape
-# - Tape-wielding enemies (such as Tape Bots) occur more frequently.
-# - Less Tape
-# - Fewer tape-related enemies will appear, although this does not remove tape entirely.
-
-
-# - No Tape Bots
-# - The old civilization did not use tape-based restraints in their capture robots.
-# - Less Cable Bots
-# - The old civilization used significantly less cable-based restraints in their capture robots.
-# - No Resin Bots
-# - The old civilization did not use crystal resin-based restraints in their capture robots.
-# - Lexx Latex Bots
-# - The old civilization used significantly less latex-based restraints in their capture robots.
-
-# - More Encasement
-# - Enemies that encase you (e.g slimes, latex cubes) will appear more frequently.
-# - Less Encasement
-# - Fewer encasement-related enemies will appear, although this does not remove them entirely.
-
-# - More Bubbles
-# - Enemies that use bubbles (e.g. aqua slimes, water witches) will appear more frequently.
-# - Less Bubbles
-# - Fewer bubble-related enemies will appear, although this does not remove them entirely.
+- More Tape
+Plus de ruban adhésif
+- Tape-wielding enemies (such as Tape Bots) occur more frequently.
+Les ennemis utilisant du ruban adhésif (comme les Tape Bots) apparaissent plus fréquemment.
+- Less Tape
+Moins de ruban adhésif
+- Fewer tape-related enemies will appear, although this does not remove tape entirely.
+Moins d'ennemis liés au ruban adhésif apparaîtront, mais cela ne supprime pas complètement le ruban adhésif.
 
 
+- No Tape Bots
+Pas de Tape Bots
+- The old civilization did not use tape-based restraints in their capture robots.
+L'ancienne civilisation n'utilisait pas d'entraves à base de ruban adhésif dans ses robots de capture.
+- Less Cable Bots
+Moins de Cable Bots
+- The old civilization used significantly less cable-based restraints in their capture robots.
+L'ancienne civilisation utilisait beaucoup moins d'entraves à base de câbles dans ses robots de capture.
+- No Resin Bots
+Pas de Resin Bots
+- The old civilization did not use crystal resin-based restraints in their capture robots.
+L'ancienne civilisation n'utilisait pas d'entraves à base de résine cristalline dans ses robots de capture.
+- Lexx Latex Bots
+Moins de Latex Bots
+- The old civilization used significantly less latex-based restraints in their capture robots.
+L'ancienne civilisation utilisait beaucoup moins d'entraves à base de latex dans ses robots de capture.
+- More Encasement
+Plus d'emprisonnement
+- Enemies that encase you (e.g slimes, latex cubes) will appear more frequently.
+Les ennemis qui t'enferment (comme les slimes ou les cubes de latex) apparaîtront plus fréquemment.
+- Less Encasement
+Moins d'emprisonnement
+- Fewer encasement-related enemies will appear, although this does not remove them entirely.
+Les ennemis liés à l'encapsulation seront moins fréquents, mais cela ne les supprimera pas complètement.
+
+- More Bubbles
+Plus de bulles
+- Enemies that use bubbles (e.g. aqua slimes, water witches) will appear more frequently.
+Les ennemis utilisant des bulles (comme les slimes aquatiques ou les sorcières de l'eau) apparaîtront plus fréquemment
+- Less Bubbles
+Moins de bulles
+- Fewer bubble-related enemies will appear, although this does not remove them entirely.
+Les ennemis liés aux bulles seront moins fréquents, mais cela ne les supprimera pas complètement.
 
 
-# - Trainee
+
+
+- Trainee
+Apprenti
 # :: KinkyDungeonStatMC_Trainee
 # :: KinkyDungeonClassModeTrainee
 # :: KDPlayerTitle_ClassTrainee
-# - Your training has given you access to the powers of the Trainee class. (Aroused mode only)
-# - Fighter
+- Your training has given you access to the powers of the Trainee class. (Aroused mode only)
+Ton entraînement te donne accès aux pouvoirs de la classe Apprenti (mode Excité uniquement).
+- Fighter
+Combattante
 # :: KinkyDungeonStatMC_Fighter
 # :: KinkyDungeonClassModeFighter
 # :: NameAdventurer_Brat_Fighter
@@ -1299,124 +1486,202 @@ Les lits et les meubles sont souvent piégés.
 # :: NameAdventurer_Dom_Fighter
 # :: NameAdventurer_Switch_Fighter
 # :: KDPlayerTitle_ClassFighter
-# - Your training has given you access to the powers of the Fighter class.
-# - Rogue
+- Your training has given you access to the powers of the Fighter class.
+Ton entraînement te donne accès aux pouvoirs de la classe de Combattant.
+- Rogue
+Voleur
 # :: KinkyDungeonStatMC_Rogue
 # :: KinkyDungeonClassModeRogue
 # :: KDPlayerTitle_ClassRogue
-# - Your training has given you access to the powers of the Rogue class.
-# - Wizard
+- Your training has given you access to the powers of the Rogue class.
+Ton entraînement te donne accès aux pouvoirs de la classe de Voleur.
+- Wizard
+Sorcière
 # :: KinkyDungeonStatMC_Wizard
 # :: KinkyDungeonClassModeMage
 # :: KinkyDungeonStatMC_Mage
 # :: KDPlayerTitle_ClassMage
-# - Your training has given you access to the powers of the Wizard class.
-# - Peasant
+- Your training has given you access to the powers of the Wizard class.
+Ton entraînement te donne accès aux pouvoirs de la classe de Sorcière.
+- Peasant
+Paysan
 # :: KinkyDungeonStatMC_Peasant
 # :: KinkyDungeonClassModePeasant
 # :: KDPlayerTitle_ClassPeasant
-# - You possess the agricultural mastery of the Peasant class.
+- You possess the agricultural mastery of the Peasant class.
+Tu possédes la maîtrise agricole de la classe Paysan.
 
 
-# - Panic! (Chests)
-# - When you open a trapped chest, you are stunned for 2 turns.
+- Panic! (Chests)
+Panique ! (coffres)
+- When you open a trapped chest, you are stunned for 2 turns.
+Lorsque tu ouvres un coffre piégé, tu es étourdi pendant 2 tours.
 
-# - Panic! (Traps)
-# - When you step on a trap, you are stunned for 2 turns.
-# - Panic sets in! (Stunned 2 turns)
+- Panic! (Traps)
+Panique ! (Pièges)
+- When you step on a trap, you are stunned for 2 turns.
+Lorsque tu marches sur un piège, tu es étourdi pendant 2 tours.
+- Panic sets in! (Stunned 2 turns)
+La panique s'installe ! (Étourdi pendant 2 tours)
 
-# - Butterfingers
-# - Having arms bound prevents you from using your hands to struggle or unlock yourself.
+- Butterfingers
+Maladroits
+- Having arms bound prevents you from using your hands to struggle or unlock yourself.
+Avoir les bras attachés t'empêches d’utiliser tes mains pour lutter ou te déverrouiller.
 
-# - Weak Grip
-# - Having arms bound prevents you from holding weapons or potions.
+- Weak Grip
+Grip faible
+- Having arms bound prevents you from holding weapons or potions.
+Avoir les bras attachés t'empêches de tenir des armes ou des potions.
 
-# - You kneel down so you can reach the potion with your mouth...
-# - Without hands, and with your mouth occupied, you cannot drink the potion.
+- You kneel down so you can reach the potion with your mouth...
+Tu t’agenouilles pour pouvoir atteindre la potion avec ta bouche...
+- Without hands, and with your mouth occupied, you cannot drink the potion.
+Sans les mains, et avec la bouche occupée, te ne peux pas boire la potion.
 
-# - Can't Hear You!
-# - Being gagged blocks you from casting verbal spells regardless of gag power.
-# - Smooth Talker
-# - Being gagged does not increase your miscast chance for verbal spells unless fully gagged, and reduces gag power by 20%.
+- Can't Hear You!
+Ne t'entends pas !
+- Being gagged blocks you from casting verbal spells regardless of gag power.
+Être bâillonné t'empêches de lancer des sorts verbaux, quelle que soit la puissance du bâillon.
+- Smooth Talker
+Beau parleur
+- Being gagged does not increase your miscast chance for verbal spells unless fully gagged, and reduces gag power by 20%.
+Le fait d’être bâillonné n’augmente pas tes chances de lancer des sorts verbaux erronés, sauf si tu es complètement bâillonnée, et réduit la puissance du bâillon de 20 %.
 
-# - Hoods and full-face covering masks do not appear, but blindfolds are more powerful.
+- Hoods and full-face covering masks do not appear, but blindfolds are more powerful.
+Les cagoules et masques couvrant tout le visage n’apparaissent pas, mais les bandeaux sont plus puissants.
 
-# - Ball Gag Lover
-# - Increase occurrence of ball gags, decrease occurrence of muzzles.
-# - Muzzle Lover
-# - Greatly increases the occurrence of muzzles.
+- Ball Gag Lover
+Amateur de Gag Ball
+- Increase occurrence of ball gags, decrease occurrence of muzzles.
+Augmente l'apparition des bâillons à boule et réduit celle des muselières.
+- Muzzle Lover
+Amateur de muselière
+- Greatly increases the occurrence of muzzles.
+Augmente considérablement l’apparition de muselières.
 
-# - Armbinder Lover
-# - More armbinders, less straitjackets.
+- Armbinder Lover
+Amateur d'Armbinder
+- More armbinders, less straitjackets.
+Plus de liens de bras, moins de camisoles de force.
 
-# - Jacket Lover
-# - More straitjackets, less armbinders.
-
-
-
-
-# - Maid Sweeper
-# - Start in a magically locked maid outfit.
-# - Wolf Trainee
-# - Start in a uniform of a naughty wolfgirl.
-# - Latex Toy
-# - Start bound in lovely latex restraints.
-# - Elemental Slave
-# - Start in a full set of magically locked obsidian cuffs.
+- Jacket Lover
+Amateur de straitjackets
+- More straitjackets, less armbinders.
+Plus de camisoles de force, moins d'Armbinder.
 
 
-# - Mana Burst
+
+
+- Maid Sweeper
+Servante balayeuse
+- Start in a magically locked maid outfit.
+Commence avec une tenue de servante verrouillée par magie.
+- Wolf Trainee
+Apprenti Wolf
+- Start in a uniform of a naughty wolfgirl.
+Commence en portant l’uniforme d’une vilaine wolfgirl.
+- Latex Toy
+Jouet de latex
+- Start bound in lovely latex restraints.
+Commence ligoté dans de jolies contraintes en latex.
+- Elemental Slave
+Esclave élémentaire
+- Start in a full set of magically locked obsidian cuffs.
+Commence avec un ensemble complet de menottes en obsidienne verrouillées par magie.
+
+
+- Mana Burst
+Explosion de mana
 # :: KinkyDungeonStatDistractionCast
 # :: KinkyDungeonSpellManaBurst
-# - While at 100% distraction, you get -100% miscast chance but spending too much mana at once may cause you to go over the edge.
-# - Arousing Magic
-# - Your magic is powered by otherworldly distracting energies. Casting spells increases distraction based on the mana spent.
-# - Clearheaded
-# - Magic puts you in a clear state of mind. Casting spells successfully reduces your distraction.
+- While at 100% distraction, you get -100% miscast chance but spending too much mana at once may cause you to go over the edge.
+À 100 % de Distraction, tes chances d'échec de sort sont réduites de 100 %, mais dépenser trop de mana d'un coup peut te faire dépasser l'edge.
+- Arousing Magic
+Magie excitante
+- Your magic is powered by otherworldly distracting energies. Casting spells increases distraction based on the mana spent.
+Ta magie est alimentée par des énergies distrayantes d’un autre monde. Lancer des sorts augmente la distraction en fonction du mana dépensé.
+- Clearheaded
+Lucide
+- Magic puts you in a clear state of mind. Casting spells successfully reduces your distraction.
+La magie te mets dans un état d’esprit clair. Lancer des sorts avec succès réduit ta distraction.
 
-# - Unidentified Wear
-# - Enchanted (and cursed) wearables and weapons are unidentified until the item is used.
-# - Unknown 
+- Unidentified Wear
+Équipement non identifié
+- Enchanted (and cursed) wearables and weapons are unidentified until the item is used.
+Les équipements et armes enchantés (ou maudits) ne sont pas identifiés tant que l'objet n'a pas été utilisé.
+- Unknown 
+Inconnu
 
-# - Copy (clipboard)
-# - Paste (clipboard)
+- Copy (clipboard)
+Copier (presse-papiers)
+- Paste (clipboard)
+Coller (presse-papiers)
 
 
-# - DAMAGEDEALT electric damage conducts to you!!!
-# - The pressure fans the flames on you, dealing bonus DAMAGEDEALT fire damage!
-# - The RestraintName comes off more easily in the presence of water!
-# - You slip on the floor!
-# - The air around you is ablaze! (-DamageDealt SP)
-# - The Goddess of Illusions shrouds you in shadows!
-# - You struggle against your bonds, but a magical force resists!
-# - The ropes squeeze you tighter and tighter...
-# - Your body sinks deeper into a sea of bindings...
-# - You struggle to breath as you are buried alive in squirming ropes...
-# - The slime stretches out over your body...
-# - The slime continues to engulf you, blocking out your vision...
-# - The slime starts to harden, sealing you inside a rubbery prison...
-# - You feel a force compelling you to stop resisting...
-# - Your body struggles to move as you feel a power sealing you!
-# - The sarcophagus' door slides open as you are slowly pulled inside...
-# - The hands squeeze you tightly as a shadowy portal appears...
-# - More hands clasp over your body as they pull you toward the portal...
-# - You struggle to breath as you are pulled into the mass of shadow hands...
-# - The world goes dark...
-# - You wake up in a different place...
+- DAMAGEDEALT electric damage conducts to you!!!
+DAMAGEDEALT dégâts électrique conduisent à toi !!!
+- The pressure fans the flames on you, dealing bonus DAMAGEDEALT fire damage!
+La pression insuffle les flammes sur toi, infligeant DAMAGEDEALT de dégâts bonus !
+- The RestraintName comes off more easily in the presence of water!
+RestraintName s'enlève plus facilement avec la présence d'eau !
+- You slip on the floor!
+Tu glisses sur le sol !
+- The air around you is ablaze! (-DamageDealt SP)
+L’air autour de toi est en feu ! (-DamageDealt SP)
+- The Goddess of Illusions shrouds you in shadows!
+La déesse des illusions t'enveloppe d’ombres !
+- You struggle against your bonds, but a magical force resists!
+Tu luttes contre tes liens, mais une force magique résiste !
+- The ropes squeeze you tighter and tighter...
+Les cordes te serrent de plus en plus fort...
+- Your body sinks deeper into a sea of bindings...
+Ton corps s’enfonce plus profondément dans une mer de liens...
+- You struggle to breath as you are buried alive in squirming ropes...
+Tu as du mal à respirer car tu es enterré vivant dans des cordes qui se tortillent...
+- The slime stretches out over your body...
+Le slime s’étend sur ton corps...
+- The slime continues to engulf you, blocking out your vision...
+Le slime continue de t’engloutir, bloquant ta vision...
+- The slime starts to harden, sealing you inside a rubbery prison...
+Le slime commence à durcir, t'enfermant dans une prison en caoutchouc...
+- You feel a force compelling you to stop resisting...
+Tu sens une force qui t’oblige à arrêter de résister...
+- Your body struggles to move as you feel a power sealing you!
+Ton corps lutte pour bouger alors que tu ressents un pouvoir qui te scelle !
+- The sarcophagus' door slides open as you are slowly pulled inside...
+La porte du sarcophage s’ouvre alors que tu es lentement tiré à l’intérieur...
+- The hands squeeze you tightly as a shadowy portal appears...
+Les mains te serrent fort alors qu’un portail sombre apparaît...
+- More hands clasp over your body as they pull you toward the portal...
+Plus de mains serrent ton corps alors qu’elles t’attirent vers le portail...
+- You struggle to breath as you are pulled into the mass of shadow hands...
+Tu as du mal à respirer alors que tu es attiré dans la masse des mains de l’ombre...
+- The world goes dark...
+Le monde s’assombrit...
+- You wake up in a different place...
+Tu te réveilles dans un autre endroit...
 
-# - Arcane Explosion
+- Arcane Explosion
+Explosion arcanique
 
-# - EnemyName says something incomprehensible! ${ETheir} spell miscasts!
-# - EnemyName fumbles ${Etheir} next move!
-# - The EnemyName utters a command word on the TargetName!
+- EnemyName says something incomprehensible! ${ETheir} spell miscasts!
+EnemyName dit quelque chose d'incompréhensible ! Le sort de ${ETheir} échoue !
+- EnemyName fumbles ${Etheir} next move!
+EnemyName rate ${Etheir} prochaine action !
+- The EnemyName utters a command word on the TargetName!
+EnemyName émet un mot de commande sur TargetName!
 
-# - Nipples
+- Nipples
+Tétons
 # :: KinkyDungeonPlayerVibratedLocationItemNipplesPiercings
 # :: KinkyDungeonPlayerVibratedLocationItemNipples
 # :: KinkyDungeonGroupItemNipples
 # :: m_Body_l_Nipples
-# - Breasts
-# - Panties
+- Breasts
+Seins
+- Panties
+Culottes
 # :: KinkyDungeonPlayerVibratedLocationItemPelvis
 # :: KinkyDungeonPlayerVibratedLocationItemVulvaPiercings
 # :: m_ElfPanties_l_Panties
@@ -1437,7 +1702,8 @@ Les lits et les meubles sont souvent piégés.
 # :: m_Dress_l_Panties
 # :: m_BindingDress_l_Panties
 # :: KDFilterFiltersPanties
-# - Front
+- Front
+Avant
 # :: KinkyDungeonPlayerVibratedLocationItemVulva
 # :: m_AuraHair_l_Front
 # :: m_Hair2_l_Front
@@ -1447,8 +1713,10 @@ Les lits et les meubles sont souvent piégés.
 # :: m_CapeRestraint_l_Front
 # :: m_CapeRestraint_l_Front
 # :: m_Aura_Bang_l_Front
-# - Rear
-# - Feet
+- Rear
+Arrière
+- Feet
+Pieds
 # :: KinkyDungeonPlayerVibratedLocationItemBoots
 # :: KinkyDungeonGroupItemBoots
 # :: m_RibbonFeet_l_Feet
@@ -1461,74 +1729,131 @@ Les lits et les meubles sont souvent piégés.
 # :: m_TapeMedBoots_l_Feet
 # :: m_TapeHeavyBoots_l_Feet
 # :: m_TapeBoots_l_Feet
-# - Everywhere!
+- Everywhere!
+Partout !
 
-# - Physical Armor: 
-# - Magic Armor: 
-# - In the Shadows: You are harder to see.
-# - Invisible: You are very difficult to see.
-# - Quickness: Your next movement is so fast it doesn't advance a turn.
-# - All Damage Reduction: 
-# - You take PERCENT1 DAMAGETYPE damage, based on PERCENT2 DAMAGETYPE resist and PERCENT3 DAMAGECATEGORY modifier.
-# - You deal PERCENT more DAMAGETYPE damage.
-# - Your bindings are PERCENT more effective.
-# - Your attacks deal a base of DAMAGEDEALT DAMAGETYPE damage, for a stamina cost of STMNA.
-# - Plugged!
-# - Plugged up!!!
-# - Denied! You won't be getting off that easy~
-# - Teasing vibrations...
-# - Gentle vibrations...
-# - Mild vibrations...
-# - Strong vibrations!
-# - Intense vibrations!!
-# - Torturous vibrations!!!
+- Physical Armor: 
+Armure physique
+- Magic Armor: 
+Armure magique
+- In the Shadows: You are harder to see.
+Dans l'ombre : Tu est plus difficile à voir.
+- Invisible: You are very difficult to see.
+Invisible : Tu es très difficile à voir.
+- Quickness: Your next movement is so fast it doesn't advance a turn.
+Rapidité : Ton prochain mouvement est si rapide qu’il n’avance pas d’un tour.
+- All Damage Reduction: 
+Réduction de tous les dommages :
+- You take PERCENT1 DAMAGETYPE damage, based on PERCENT2 DAMAGETYPE resist and PERCENT3 DAMAGECATEGORY modifier.
+Tu prends PERCENT1 dégâts de type DAMAGETYPE, en fonction de ta résistance aux dégâts de type DAMAGETYPE (PERCENT2) et du modificateur de DAMAGECATEGORY (PERCENT3).
+- You deal PERCENT more DAMAGETYPE damage.
+Tu infliges PERCENT plus de dégâts de type DAMAGETYPE.
+- Your bindings are PERCENT more effective.
+Tes contraintes sont PERCENT plus efficaces.
+- Your attacks deal a base of DAMAGEDEALT DAMAGETYPE damage, for a stamina cost of STMNA.
+Tes attaques infligent DAMAGEDEALT dégâts de type DAMAGETYPE, pour un coût en endurance de STMNA.
+- Plugged!
+Obturé !
+- Plugged up!!!
+Complètement obturé !!!
+- Denied! You won't be getting off that easy~
+Refusé ! Tu ne t'en tireras pas si facilement~
+- Teasing vibrations...
+Vibrations taquines...
+- Gentle vibrations...
+Vibrations douces...
+- Mild vibrations...
+Vibrations légères...
+- Strong vibrations!
+Vibrations fortes !
+- Intense vibrations!!
+Vibrations intenses !!
+- Torturous vibrations!!!
+Vibrations torturantes !!!
 
-# - Your restraints are restrictive! Struggling is less effective without help.
-# - Stunned! You can't move!
-# - Your vision is impaired!
-# - Arms are bound!
-# - Hands are useless!
-# - Hands are impaired! Some tasks will be harder...
-# - Slow Level 2: Movement significantly impaired!
-# - Slow Level 1: Movement slightly impaired.
-# - Slow Level 3: Movement severely impaired!
-# - Slow Level 4+: Movement is almost impossible. Sprinting and hopping are disabled.
-# - Slow Level 10+: Immobilized!
-# - Your mouth is free for potion-drinking and spellcasting activities.
-# - Your vision is clear.
-# - Your hands are unobstructed.
-# - Your arms are free to move as you please.
-# - Your legs are free and unimpeded.
-# - You are gagged! Verbal miscast chance is increased and your potions are less effective!
-# - Your mouth is totally filled! You can't drink potions and cant cast verbal spells!
+- Your restraints are restrictive! Struggling is less effective without help.
+Tes contraintes sont restrictives ! Lutter est moins efficace sans aide.
+- Stunned! You can't move!
+Étourdi ! Tu ne peux plus bouger !
+- Your vision is impaired!
+Ta vision ets altérée !
+- Arms are bound!
+Les bras sont liés !
+- Hands are useless!
+Les mains sont inutiles !
+- Hands are impaired! Some tasks will be harder...
+Tes mains sont entravées ! Certaines actions seront plus difficiles...
+- Slow Level 2: Movement significantly impaired!
+Ralenti Niv. 2 : Mouvements fortement entravés !
+- Slow Level 1: Movement slightly impaired.
+Ralenti Niv. 1 : Mouvements légèrement entravés !
+- Slow Level 3: Movement severely impaired!
+Ralenti Niv. 3 : Mouvements sévèrement entravés !
+- Slow Level 4+: Movement is almost impossible. Sprinting and hopping are disabled.
+Ralenti Niv. 4+ : Mouvements presque impossible. Les sprints et les sauts sont désactivés.
+- Slow Level 10+: Immobilized!
+Ralenti Niv. 10+ : Immobilisée !
+- Your mouth is free for potion-drinking and spellcasting activities.
+Ta bouche est libre pour boire les potions et lancer des sorts.
+- Your vision is clear.
+Ta vision est claire.
+- Your hands are unobstructed.
+Tes mains ne sont pas entravées.
+- Your arms are free to move as you please.
+Tes bras sont libres de bouger comme tu le souhaites.
+- Your legs are free and unimpeded.
+Tes jambes sont libres et sans entrave.
+- You are gagged! Verbal miscast chance is increased and your potions are less effective!
+Tu es bâillonnée ! Les chances de rater un sort verbale sont augmentées et tes potions sont moins efficaces !
+- Your mouth is totally filled! You can't drink potions and cant cast verbal spells!
+Ta bouche est totalement remplie ! Tu ne peux ni boire de potions, ni lancer de sort verbale !
 
-# - Spell Empowerment!
+- Spell Empowerment!
+Sorts renforcés !
 
-# - Let there be light!
+- Let there be light!
+Que la lumière soit !
 
-# - You're seeing things...
+- You're seeing things...
+Tu vois des choses...
 
-# - You've been poisoned!
+- You've been poisoned!
+Tu as été empoisonné !
 
-# - -50% MP Cost (Latex)
-# - -50% MP Cost (Leather)
-# - -50% MP Cost (Metal)
-# - -50% MP Cost (Rope)
-# - Regeneration
-# - -50% MP Cost (Elements)
-# - -50% MP Cost (Conjuration)
-# - -50% MP Cost (Illusion)
+- -50% MP Cost (Latex)
+-50% coût MP (Latex)
+- -50% MP Cost (Leather)
+-50% coût MP (Cuir)
+- -50% MP Cost (Metal)
+-50% coût MP (Métal)
+- -50% MP Cost (Rope)
+-50% coût MP (Corde)
+- Regeneration
+Régénération
+- -50% MP Cost (Elements)
+-50% coût MP (Élémentaire)
+- -50% MP Cost (Conjuration)
+-50% coût MP (Invocation)
+- -50% MP Cost (Illusion)
+-50% coût MP (Illusion)
 
-# - Conductive: When you or an enemy takes electric damage, the other takes half of it as well!
-# - Lightning Rod: Gain significantly boosted electric resist.
-# - Drenched: Grants fire resist, ice/electric weakness, and makes you conductive.
+- Conductive: When you or an enemy takes electric damage, the other takes half of it as well!
+Conductrisse : Quand tu ou un ennemi subit des dégâts électriques, l’autre en subit la moitié !
+- Lightning Rod: Gain significantly boosted electric resist.
+Paratonnerre : Gagne une résistance électrique considérablement augmentée.
+- Drenched: Grants fire resist, ice/electric weakness, and makes you conductive.
+Trempée : Confère une résistance au feu, une faiblesse à la glace et à l'électricité, et te rend conductrisse.
 
-# - Chilled: The cold makes it hard to move! You are slowed.
-# - Slimed: It's sticky and dense! You are slowed and 30% more vulnerable to glue damage.
-# - Unsteady: You're on loose footing. You are easier to hit and are slowed.
+- Chilled: The cold makes it hard to move! You are slowed.
+Glacée : Le froid rend tes mouvements plus durs ! Tu es ralenti.
+- Slimed: It's sticky and dense! You are slowed and 30% more vulnerable to glue damage.
+Slimée : C'est collant et dense ! Tu es ralenti et plus vulnérable de 30% face aux dégâts de colle.
+- Unsteady: You're on loose footing. You are easier to hit and are slowed.
+Instable : Ton appui est instable. Tu es plus facile à toucher et tu es ralenti.
 # :: KinkyDungeonBuffUnsteady
 # :: KinkyDungeonBuffUnsteady2
-# - Ignore Ice Tiles
+- Ignore Ice Tiles
+Ignore les cases de glace
 
 # - Ignited: You are dealing fire damage to yourself and nearby enemies!
 # - You are on fire and taking damage!
