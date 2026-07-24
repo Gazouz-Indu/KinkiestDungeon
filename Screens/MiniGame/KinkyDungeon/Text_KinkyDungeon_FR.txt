@@ -1855,166 +1855,273 @@ Instable : Ton appui est instable. Tu es plus facile à toucher et tu es ralenti
 - Ignore Ice Tiles
 Ignore les cases de glace
 
-# - Ignited: You are dealing fire damage to yourself and nearby enemies!
-# - You are on fire and taking damage!
+- Ignited: You are dealing fire damage to yourself and nearby enemies!
+Enflammée : Tu infliges des dégâts de feu à toi même et aux ennemis proches !
+- You are on fire and taking damage!
+Tu es en feu et prends des dégâts !
 
-# - Divine Punishment: Deals bonus damage when you hit an enemy.
-# - Divine Protection: Automatically blocks the next 3 times an enemy tries to bind you.
-# - Divine Cunning: You turn invisible briefly after attacking.
+- Divine Punishment: Deals bonus damage when you hit an enemy.
+Punition divine : Inflige des dégâts bonus lorsque tu touches un ennemi.
+- Divine Protection: Automatically blocks the next 3 times an enemy tries to bind you.
+Protection divine : Bloque automatiquement les 3 prochaines fois qu'un ennemi essaie de te lier.
+- Divine Cunning: You turn invisible briefly after attacking.
+Ruse divine : Tu deviens invisible brièvement après avoir attaqué.
 
-# - -MP Cost (Fire)
-# - -MP Cost (Air)
-# - -MP Cost (Water)
-# - -MP Cost (Earth)
+- -MP Cost (Fire)
+-MP Coût (Feu)
+- -MP Cost (Air)
+-MP Coût (Air)
+- -MP Cost (Water)
+-MP Coût (Eau)
+- -MP Cost (Earth)
+-MP Coût (Terre)
 
-# - Slime Form: You gain bonuses and can slip through bars!
-# - Shroud: Visibility decreased, evasion increased.
-# - Camoflage: While next to a wall, you are very hard to see.
-# - Stone Skin: Increased armor.
-# - Darkblade: Increased damage.
-# - Runic Ward: Increased Magic Armor.
-# - Great Invisibility: It is impossible for enemies to see you.
-# - Invisibility: It is very difficult for enemies to see you.
-# - Lesser Invisibility: It is harder for enemies to see you.
-# - FULL POWER: Cutting power increased.
-# - Graceful: Struggling power increased.
-# - Iron Blood: Reduced melee cost, increased mana costs.
-# - Sleepy: You are sluggish and have a hard time keeping your eyes open.
-# - Afterimage: Evasion greatly increased.
-# - We did it! We made ourselves invisible--mmmmph!!!
-# - You are not currently attempting to disguise yourself. Click to reenable.
-# - Your restraints are disenchanted, treating them as nonmagical for purposes of cutting.
-# - You can launch another leather restraint instantly!
-# - You can launch another Sagitta instantly!
+- Slime Form: You gain bonuses and can slip through bars!
+Forme de Slime : Tu obtiens divers bonus et peux glisser entre les barreaux !
+- Shroud: Visibility decreased, evasion increased.
+Voile : Visibilité réduite, esquive augmentée.
+- Camoflage: While next to a wall, you are very hard to see.
+Camouflage : Lorsque tu es proche d'un mur, tu es très difficile à voir.
+- Stone Skin: Increased armor.
+Peau de pierre : Augmente l'armure.
+- Darkblade: Increased damage.
+Darkblade : Augmente les dégâts.
+- Runic Ward: Increased Magic Armor.
+Protection runique : Armure magique augmentée.
+- Great Invisibility: It is impossible for enemies to see you.
+Bonne invisibilité : Il est impossible pour les ennemis de te voir.
+- Invisibility: It is very difficult for enemies to see you.
+Invisibilité : Il est très difficile pour les ennemis de te voir.
+- Lesser Invisibility: It is harder for enemies to see you.
+Moins invisible : Il est plus dur pour les ennemis de te voir.
+- FULL POWER: Cutting power increased.
+POUVOIR COMPLET : Pouvoir de coupe augmentée.
+- Graceful: Struggling power increased.
+Gracieux : Pouvoir de lutte augmentée.
+- Iron Blood: Reduced melee cost, increased mana costs.
+Sang de Fer : Coût de mélée réduite, coût de mana augmentée.
+- Sleepy: You are sluggish and have a hard time keeping your eyes open.
+Somnolente : Tu es léthargique et tu as du mal à garder les yeux ouverts.
+- Afterimage: Evasion greatly increased.
+Afterimage : L’évasion a considérablement augmenté.
+- We did it! We made ourselves invisible--mmmmph!!!
+On l'a fait ! On s'est rendu invisible--mmmmph !!!
+- You are not currently attempting to disguise yourself. Click to reenable.
+Tu es actuellement pas en train d'essayer de te déguiser. Clique pour réactiver.
+- Your restraints are disenchanted, treating them as nonmagical for purposes of cutting.
+Tes entraves sont désenchantées, traitées comme non magiques à des fins de découpe.
+- You can launch another leather restraint instantly!
+Tu peux lancer une autre contrainte de cuir instantanément !
+- You can launch another Sagitta instantly!
+Tu peux lancer un autre Sagitta instantanément !
 
-# - You have stored willpower.
-# - You have consumed a mote of essence, granting miscast chance reduction.
-# - You recapture an essence mote and concentrate on its essence!
-# - Choose an essence mote to absorb.
+- You have stored willpower.
+Tu as stocké de la volonté.
+- You have consumed a mote of essence, granting miscast chance reduction.
+Tu as absorbé une parcelle d'essence, réduisant tes chances d'échec de sort.
+- You recapture an essence mote and concentrate on its essence!
+Tu récupéres une parcelle d'essence et te concentres sur son pouvoir !
+- Choose an essence mote to absorb.
+Choisi une parcelle d'essence à absorber.
 
-# - Locked Down: Struggling power is greatly reduced.
+- Locked Down: Struggling power is greatly reduced.
+Solidement entravé : La force de lutte est fortement réduite.
 # :: KinkyDungeonBuffStraitjacketBolt
 # :: KinkyDungeonBuffLockdown
 
-# - Verbose: You can cast verbal spells while gagged.
-# - Dextrous: You can cast arm spells while tied up.
-# - Spell Dance: You can cast leg spells while tied up.
+- Verbose: You can cast verbal spells while gagged.
+Verbose : Tu peux lancer des sorts verbaux même bâillonné.
+- Dextrous: You can cast arm spells while tied up.
+Habile : Tu peux lancer des sorts de bras même ligoté.
+- Spell Dance: You can cast leg spells while tied up.
+Dance des sorts : Tu peux lancer des sorts même ligoté.
 
-# - Bondage Buster: Lazor is charging...
-# - Katana: Patience is key...
-# - Stormbreaker: You have the Power.
+- Bondage Buster: Lazor is charging...
+Bondage Buster : Le laser se charge...
+- Katana: Patience is key...
+Katana : La patience est la clé...
+- Stormbreaker: You have the Power.
+Stormbreaker : Tu as le Pouvoir.
 
-# - Game Setup:
-# - Beginner: Get a save code every 3 levels, autosave after each floor
-# - Roguelike: No save codes, only autosave
-# - Exciting: Orbs give random spells
-# - Kinky: No save codes, orbs give random spells, start with very little
+- Game Setup:
+Configuration du jeu :
+- Beginner: Get a save code every 3 levels, autosave after each floor
+Débutant : Obtient un code de sauvegarde tous les 3 niveaux, sauvegarde auto après chaque étage
+- Roguelike: No save codes, only autosave
+Roguelike : Pas de code de sauvegarde, uniquemment des sauvegardes auto
+- Exciting: Orbs give random spells
+Excitant : Les orbes donnent des sorts aléatoires
+- Kinky: No save codes, orbs give random spells, start with very little
+Kinky : Pas de code de sauvegarde, les orbes donnent des sorts aléatoires, commence avec très peu
 
-# - Journal
+### - Journal
 # :: KinkyDungeonLog
 # :: KinkyDungeonKeyLog
 # :: KinkyDungeonLogbook
 
-# - Change Outfit
+- Change Outfit
+Changer tenue
 # :: KinkyDungeonDressPlayer
 # :: KDDressNPC
-# - Reset to Default
-# - Outfit Code
-# - Confirm Reset?
+- Reset to Default
+Reset vers défaut
+- Outfit Code
+Code de tenue
+- Confirm Reset?
+Confirmer reset ?
 
-# - (Your game has been saved)
-# - (Copy the code above and save it on your computer to backup)
+- (Your game has been saved)
+(Ton jeu a été sauvé)
+- (Copy the code above and save it on your computer to backup)
+(Copie le code ci-dessus et enregistre le sur ton PC pour backup)
 
-# - Continue...
+- Continue...
+Continuer...
 
-# - Menu
+### - Menu
+
 # :: KinkyDungeonRestart
 # :: KDNavQuit
-# - I will simply wait to see what happens.
-# - Save my current progress.
-# - Give up & delete save
-# - Yes, delete my save file!
-# - Actually, I will let the enemy capture me instead.
-# - Yes, jail me!
-# - No, I wish to press on
-# - See Perks
+- I will simply wait to see what happens.
+Je vais simplement attendre de voir ce qui va se passer.
+- Save my current progress.
+Sauver mon avancée.
+- Give up & delete save
+Abandonner et supp. sauvegarde
+- Yes, delete my save file!
+Oui, supprime la sauvegarde !
+- Actually, I will let the enemy capture me instead.
+Actuellement, je laisserai l'ennemi me capturer à la place.
+- Yes, jail me!
+Oui, emprisonne-moi !
+- No, I wish to press on
+Non, je souhaite poursuivre
+- See Perks
+Voir les atouts
 
-# - This chest belongs to the FACTION
-# - This belongs to the FACTION
+- This chest belongs to the FACTION
+Ce coffre appartient au FACTION
+- This belongs to the FACTION
+Ceci appartient au FACTION
 
-# - Devious Dungeon Challenge is enabled.
-# - Waiting for game data...
+- Devious Dungeon Challenge is enabled.
+Le défi du donjon sournois est activé.
+- Waiting for game data...
+En attente des données du jeu...
 
 
-# - You have reached the end of the playable portion.
-# - Come back later for new dungeons!
+- You have reached the end of the playable portion.
+Tu as atteint la fin de la partie jouable du jeu.
+- Come back later for new dungeons!
+Reviens plus tard pour de nouveaux donjons !
 
-# - Got the keys! Find the stairs to go to the next floor.
-# - You haven't found the keys for this floor yet.
-# - Missing key
-# - You are protected from damage and can't be bound until the shield is broken!
-# - Chance for a spell to fizzle: 
-# - Dodge Chance: Percent%, based on EVASIONSUM Evasion and EVASIONPENALTY% penalty.
-# - Block Chance: Percent%, based on BLOCKSUM Block and BLOCKPENALTY% penalty.
-# - Chance to resist a level 10 restraint: AMNT1%, based on AMNT2 Bondage Resist and RESBLKPENALTY penalty.
-# - Sight Range: RADIUS
-# - Speed: SPD
-# - Normal
+- Got the keys! Find the stairs to go to the next floor.
+T'as les clés ! Trouve les escaliers pour aller au prochain étage.
+- You haven't found the keys for this floor yet.
+Tu n'as pas encore trouvé les clés pour cet étage.
+- Missing key
+Clé manquante
+- You are protected from damage and can't be bound until the shield is broken!
+Tu es protégée des dégâts et ne peux pas être liée tant que le bouclier est cassé !
+- Chance for a spell to fizzle: 
+Chance pour qu’un sort échoue :
+- Dodge Chance: Percent%, based on EVASIONSUM Evasion and EVASIONPENALTY% penalty.
+Chance d'ésquive : Percent%, basé sur EVASIONSUM Évasion et EVASIONPENALTY% de pénalité.
+- Block Chance: Percent%, based on BLOCKSUM Block and BLOCKPENALTY% penalty.
+Chance de bloque : Percent%, basé sur BLOCKSUM Bloquage et BLOCKPENALTY% de pénalité.
+- Chance to resist a level 10 restraint: AMNT1%, based on AMNT2 Bondage Resist and RESBLKPENALTY penalty.
+Chance de résister aux entraves de niv. 10 : AMNT1%, basé sur AMNT2 résistannce au Bondage et RESBLKPENALTY de pénalité.
+- Sight Range: RADIUS
+Portée de vue : RADIUS
+- Speed: SPD
+Vitesse : SPD
+### - Normal
 # :: StatSpeedNormal
 # :: KinkyDungeonEasyMode0
 # :: KDRoomType_
 # :: KDCollectionFilterRank1
-# - Stunned!
-# - Slowed
+- Stunned!
+Étourdi
+- Slowed
+Ralenti
 # :: StatSpeedSlow
 # :: KDStatusTooltipEnemySlow
-# - Very Slow
-# - Immobile
-# - DP: PERCENT%
-# - DP: CURRENT/MAX (PERCENT% Desire)
-# - SP: CURRENT/MAX
-# - Willpower: CURRENT/MAX
-# - MP: CURRENT/MAX
-# - Mana slowly recovers from a pool equal to POOLMANA. Drink potions to restore the pool.
-# - Your Desire is the baseline Distraction you decay toward, and is increased by distracting things.
-# - Stamina recovers more quickly when you aren't spending it.
-# - Willpower is restored by food, sleep, and potions. Without willpower, it becomes very difficult to escape.
-# - Charge is used to power various magic items and weapons.
-# - WP: CURRENT/MAX
-# - Charge: PERCENT
-# - Use Potion
-# -  MP
-# - Go to sleep
+- Very Slow
+Très lent
+### - Immobile
+
+- DP: PERCENT%
+DP : PERCENT%
+- DP: CURRENT/MAX (PERCENT% Desire)
+DP : CURRENT/MAX (PERCENT% Désir)
+- SP: CURRENT/MAX
+SP : CURRENT/MAX
+- Willpower: CURRENT/MAX
+Volonté : CURRENT/MAX
+- MP: CURRENT/MAX
+MP : CURRENT/MAX
+- Mana slowly recovers from a pool equal to POOLMANA. Drink potions to restore the pool.
+Récupère du mana lentement de la piscine équivalent à POOLMANA. Boire des potions rempli la piscine.
+- Your Desire is the baseline Distraction you decay toward, and is increased by distracting things.
+Ton Désir est la distraction de base vers laquelle tu poursuis ton déclin, et il est augmenté par les choses qui te distraient.
+- Stamina recovers more quickly when you aren't spending it.
+Tu récupères ton endurance plus rapidement si tu ne le dépenses pas.
+- Willpower is restored by food, sleep, and potions. Without willpower, it becomes very difficult to escape.
+La volonté est restaurée par la nourriture, dormir et les potions. Sans volonté, il est plus difficile de s'échapper.
+- Charge is used to power various magic items and weapons.
+La Charge est utilisée pour alimenter divers objets magiques et armes.
+- WP: CURRENT/MAX
+WP : CURRENT/MAX
+- Charge: PERCENT
+Charge : PERCENT
+- Use Potion
+Utiliser Potion
+### -  MP
+- Go to sleep
+Aller dormir
 # :: KinkyDungeonSleep
 # :: KDSleep
-# - Call for help!
-# - Play with yourself
+- Call for help!
+Appeler à l'aide !
+- Play with yourself
+Se donner du plaisir
 # :: KinkyDungeonPlayWithSelf
 # :: KDPlay
-# - Let go...
+- Let go...
+Laisser aller...
 # :: KinkyDungeonTryOrgasm
 # :: KDLetGo
 
-# - Call for Help!!!
-# - Wait until interrupted
-# - Auto-struggle
-# - Auto-path
-# - Quick-Swap Weapon
-# - Inspect
+- Call for Help!!!
+Appeler à l'aide !!!
+- Wait until interrupted
+Attendre jusqu'à interruption
+- Auto-struggle
+Lutte auto
+- Auto-path
+Parcour auto
+- Quick-Swap Weapon
+Changement d'arme rapide
+- Inspect
+Examiner
 # :: KDInspect
 # :: KinkyDungeonKeyAInspect
 # :: KinkyDungeonKeyInspect
-# - Pass NPCs
+- Pass NPCs
+Traverser les PNJ
 # :: KDPass
 # :: KinkyDungeonAutoPassOff
-# - Interact
+- Interact
+Interagir
 # :: KDDoor
 # :: KinkyDungeonKeyDoor
 # :: KDContextMenu_Interact
-# - Sprint/Hop
+- Sprint/Hop
+Sprint/Saut
 # :: KDSprint
 # :: KinkyDungeonKeySprint
-# - Crouch
+- Crouch
+S'accroupir
 # :: KDCrouch
 # :: KinkyDungeonKeyCrouch
 
@@ -2022,25 +2129,32 @@ Ignore les cases de glace
 # - ~mmm~
 # - ~ngh~
 # - ~oh~
-# - (Heavy breathing)
+- (Heavy breathing)
+(Forte respiration)
 # :: KinkyDungeonChangeDistraction4
 # :: KinkyDungeonChangeDistractionGag4
-# - (Soft moaning)
+- (Soft moaning)
+(Doux gémissements)
 # :: KinkyDungeonChangeDistraction5
 # :: KinkyDungeonChangeDistractionGag5
-# - (Incoherent mumbling)
+- (Incoherent mumbling)
+(Marmonnement incohérent)
 # :: KinkyDungeonChangeDistraction6
 # :: KinkyDungeonChangeDistractionGag6
-# - (Loud moans)
+- (Loud moans)
+(Gémissements forts)
 # :: KinkyDungeonChangeDistraction7
 # :: KinkyDungeonChangeDistractionGag7
-# - (Deep breaths)
+- (Deep breaths)
+(Respiration haletante)
 # :: KinkyDungeonChangeDistraction8
 # :: KinkyDungeonChangeDistractionGag8
-# - (Uncontrollable moaning)
+- (Uncontrollable moaning)
+(Gémissements incontrôlables)
 # :: KinkyDungeonChangeDistraction9
 # :: KinkyDungeonChangeDistractionGag9
-# - (Horny noises)
+- (Horny noises)
+(Sons lubriques)
 # :: KinkyDungeonChangeDistraction10
 # :: KinkyDungeonChangeDistractionGag10
 
@@ -2050,209 +2164,345 @@ Ignore les cases de glace
 # - ~nnn~
 # - ~mmmmm~
 
-# - You wait.
-# - You wait, legs trembling with arousal.
-# - You wait, trembling and moaning.
-# - You wait to regain your strength.
-# - You wait to regain your composure, panting with frustration.
-# - You wait to regain your composure, shaking with frustration.
-# - You are exhausted from spellcasting.
+- You wait.
+Tu attends.
+- You wait, legs trembling with arousal.
+Tu attends, les jambes tremblent d’excitation.
+- You wait, trembling and moaning.
+Tu attends, tremblant et gémissant.
+- You wait to regain your strength.
+Tu attends de retrouver ta force.
+- You wait to regain your composure, panting with frustration.
+Tu attends de retrouver ton calme, haletant de frustration.
+- You wait to regain your composure, shaking with frustration.
+Tu attends de retrouver ton calme, tremblant de frustration.
+- You are exhausted from spellcasting.
+Tu es épuisée par le lancer de sorts.
 
-# - You are feeling tired.
-# - You feel exhausted...
-# - You feel like you are going to pass out...
+- You are feeling tired.
+Tu te sens fatigué.
+- You feel exhausted...
+Tu te sens épuisé...
+- You feel like you are going to pass out...
+Tu as l’impression que tu vas t’évanouir...
 
-# - Start New Game
-# - New Game+
-# - New Game+ (Hard Mode)
-# - New Game+ (Extreme Mode)
-# - Continue Last Save
-# - Load Saved Game
-# - Save Outfit (overwrite!)
-# - Save Outfit (Clothes Only!)
-# - Save Keybindings
-# - Cancel Changes
-# - Return
-# - Game Options
-# - Consent Options
+- Start New Game
+Nouvelle partie
+- New Game+
+Nouvelle partie +
+- New Game+ (Hard Mode)
+Nouvelle partie + (Mode difficile)
+- New Game+ (Extreme Mode)
+Nouvelle partie + (Mode extrême)
+- Continue Last Save
+Reprendre la partie
+- Load Saved Game
+Charger partie
+- Save Outfit (overwrite!)
+Sauver tenue (écraser !)
+- Save Outfit (Clothes Only!)
+Sauver tenue (Que les vêtements !)
+- Save Keybindings
+Sauver raccourcis clavier
+- Cancel Changes
+Annuler les modifs
+- Return
+Retour
+- Game Options
+Options
+- Consent Options
+Options de consentement
 
 
-# - Load from code
-# - Back to main menu
-# - Load Mod .zip
-# - Delete Mod
-# - Clear Perks
-# - Config 
-# - Cancel
+- Load from code
+Charger depuis code
+- Back to main menu
+Retour au manu
+- Load Mod .zip
+Charger Mod .zip
+- Delete Mod
+Supprimer Mod
+- Clear Perks
+Clear les atouts
+### - Config 
+- Cancel
+Annuler
 # :: KinkyDungeonCancel
 # :: KDCancel
-# - Filter
+- Filter
+Filtre
 
-# - DANGER: Loading a mod will execute ARBITRARY CODE on your machine.
-# - Like connecting to a server, etc. Only load mods from a TRUSTED source.
+- DANGER: Loading a mod will execute ARBITRARY CODE on your machine.
+DANGER : Charger un mod exécutera du CODE ARBITRAIRE sur ta machine.
+- Like connecting to a server, etc. Only load mods from a TRUSTED source.
+Comme se connecter à un serveur, etc. Ne charger que des mods dont la source est sûre.
 
-# - Up
-# - Down
-# - Left
+- Up
+Haut
+- Down
+Bas
+- Left
+Gauche
 # :: KinkyDungeonKeyLeft
 # :: m_SmoothHeels_l_Left
 # :: m_PointyAntennae_l_Left
 # :: m_PointyHorns_l_Left
-# - Right
+- Right
+Droite
 # :: KinkyDungeonKeyRight
 # :: m_SmoothHeels_l_Right
 # :: m_PointyAntennae_l_Right
 # :: m_PointyHorns_l_Right
-# - Up Left
-# - Up Right
-# - Down Left
-# - Down Right
+- Up Left
+Haut Gauche
+- Up Right
+Haut Droite
+- Down Left
+Bas Gauche
+- Down Right
+Bas Droite
 # - Tab 1
 # - Tab 2
 # - Tab 3
 # - Tab 4
 # - Tab 5
-# - Spell 1
-# - Spell 2
-# - Spell 3
-# - Spell 4
-# - Spell 5
-# - Spell 6
-# - Spell 7
-# - Spell 8
-# - Spell 9
-# - Spell 10
-# - Load Hotbar 1
-# - Load Hotbar 2
-# - Load Hotbar 3
-# - Load Loadout 1
-# - Load Loadout 2
-# - Load Loadout 3
-# - Cycle Spell Page
-# - Upcast Spells
-# - Cancel Upcast
-# - Swap Weapon 1
-# - Swap Weapon 2
-# - Swap Weapon 3
-# - Swap Weapon 4
-# - Weapon Ability
-# - Wait
+- Spell 1
+Sort 1
+- Spell 2
+Sort 2
+- Spell 3
+Sort 3
+- Spell 4
+Sort 4
+- Spell 5
+Sort 5
+- Spell 6
+Sort 6
+- Spell 7
+Sort 7
+- Spell 8
+Sort 8
+- Spell 9
+Sort 9
+- Spell 10
+Sort 10
+- Load Hotbar 1
+Charger barre de raccourcis 1
+- Load Hotbar 2
+Charger barre de raccourcis 2
+- Load Hotbar 3
+Charger barre de raccourcis 3
+- Load Loadout 1
+Charger l'équipement 1
+- Load Loadout 2
+Charger l'équipement 2
+- Load Loadout 3
+Charger l'équipement 3
+- Cycle Spell Page
+Changer de page de sorts
+- Upcast Spells
+Renforcer le sort
+- Cancel Upcast
+Annuler renforcement
+- Swap Weapon 1
+Basculer l'arme 1
+- Swap Weapon 2
+Basculer l'arme 2
+- Swap Weapon 3
+Basculer l'arme 3
+- Swap Weapon 4
+Basculer l'arme 4
+- Weapon Ability
+Capacité de l'arme
+- Wait
+Attendre
 # :: KinkyDungeonKeyWait
 # :: KDContextMenu_Wait
-# - Cancel/Back
-# - Enter
-# - Expand Minimap
-# - Zoom Out
-# - Zoom In
-# - Wait till Interrupted
-# - Expand Buffs/Status
-# - Make Noise
-# - Play with Self
-# - Hide Statuses/Dialogue
+- Cancel/Back
+Annuler/Retour
+- Enter
+Entrer
+- Expand Minimap
+Agrandir Minimap
+- Zoom Out
+Zoom-
+- Zoom In
+Zoom+
+- Wait till Interrupted
+Attendre jusqu'à interruption
+- Expand Buffs/Status
+Développer bonus/états
+- Make Noise
+Faire du bruit
+- Play with Self
+Se donner du plaisir
+- Hide Statuses/Dialogue
+Masquer les états/dialogues
 
-# - Message Log
-# - Pass thru allies
+- Message Log
+Journal des messages
+- Pass thru allies
+Traverser les alliés
 # :: KinkyDungeonKeyPass
 # :: KDFocusControlsAutoPassAllies
-# - Auto-Struggle
-# - Auto-Pathfind
-# - Hide Bullets
+- Auto-Struggle
+Lutte auto
+- Auto-Pathfind
+Chemin automatique
+- Hide Bullets
+Cacher les balles
 
-# - Quick Inventory
-# - Inventory
+- Quick Inventory
+Inventaire rapide
+- Inventory
+Inventaire
 # :: KinkyDungeonKeyInventory
 # :: KDContextMenu_Inventory
 # :: KDPlayerTitleCategory_Inventory
-# - Reputation
+- Reputation
+Réputation
 # :: KinkyDungeonKeyReputation
 # :: KDPlayerTitleCategory_Reputation
-# - Journey Map
-# - Quests
+- Journey Map
+Map du parcours
+- Quests
+Quêtes
 # :: KinkyDungeonKeyQuest
 # :: KinkyDungeonQuest
-# - Spell List
-# - Pause Menu
-# - Facilities
+- Spell List
+Liste de sorts
+- Pause Menu
+Menu pause
+- Facilities
+Installations
 # :: KinkyDungeonKeyFacilities
 # :: KinkyDungeonFacilities
 
-# - Current Key Pressed
-# - Press a key, then press a button to set that key
+- Current Key Pressed
+Touche actuelle enfoncée
+- Press a key, then press a button to set that key
+Appuyez sur une touche, puis appuyez sur un bouton pour définir cette touche
 
-# - Floor FLOORNUMBER: DUNGEONNAME
-# - Lockpicks: 
-# - Keys: 
-# - Magic Keys: 
-# - Knife: 
-# - Mag. Knife: 
+- Floor FLOORNUMBER: DUNGEONNAME
+Étage FLOORNUMBER : DUNGEONNAME
+- Lockpicks: 
+Crochets :
+- Keys: 
+Clés :
+- Magic Keys: 
+Clés magiques :
+- Knife: 
+Couteau :
+- Mag. Knife: 
+Couteau magique :
 
-# - You climb down the stairs. The passage closes behind you.
-# - You climb back up the stairs.
-# - You can't climb down until you get out of this leash...
-# - You climb down and find yourself in a strange new place.
+- You climb down the stairs. The passage closes behind you.
+Tu descends les escaliers. Le passage se referme derrière toi.
+- You climb back up the stairs.
+Tu remontes les escaliers.
+- You can't climb down until you get out of this leash...
+Tu ne peux descendre tant que tu ne te détaches pas de cette laisse...
+- You climb down and find yourself in a strange new place.
+Tu descends et te retrouves dans un étrange nouvel endroit.
 
-# -  plus XXX
+### -  plus XXX
 
-# - Graveyard
+- Graveyard
+Cimetière
 # :: DungeonNamegrv
 # :: KinkyDungeonCheckpointLoregrv
-# - Catacombs
+- Catacombs
+Catacombes
 # :: DungeonNamecat
 # :: KinkyDungeonCheckpointLorecat
-# - Overgrown Ruins
-# - Lost Temple
-# - The Bellows
-# - Rundown Laboratory
-# - Forgotten Garden
-# - Coastal Grotto
-# - Kingdom of Ice
+- Overgrown Ruins
+Ruines envahies
+- Lost Temple
+Temple perdu
+- The Bellows
+Les Soufflets
+- Rundown Laboratory
+Laboratoire délabré
+- Forgotten Garden
+Jardin oublié
+- Coastal Grotto
+Grotte côtière
+- Kingdom of Ice
+Royaume de glace
 
-# - The Mansion
+- The Mansion
+Le Manoir
 
-# - Ancient Tombs
-# - Magic Library
-# - Crystal Cave
+- Ancient Tombs
+Tombes anciennes
+- Magic Library
+Bibliothèque magique
+- Crystal Cave
+Grotte de cristal
 # :: DungeonNamecry
 # :: KinkyDungeonCheckpointLorecry
-# - Cavern
-# - Orrery
+- Cavern
+Caverne
+### - Orrery
 # :: DungeonNameore
 # :: KinkyDungeonCheckpointLoreore
-# - Training Center
-# - Rubber Facility
-# - Wizards' Den
-# - Marble Halls
-# - Doll Storage
-# - Processing
+- Training Center
+Centre d'entraînement
+- Rubber Facility
+Complexe de caoutchouc
+- Wizards' Den
+Repaire des sorciers
+- Marble Halls
+Salles de marbre
+- Doll Storage
+Entrepôt de poupées
+- Processing
+Traitement
 # :: DungeonNameDollRoom
 # :: DungeonNameDollStorage
-# - Bandit Hideout
+- Bandit Hideout
+Repaire des bandits
 # :: DungeonNameBanditFort
 # :: KDSideRoom_BanditFort
-# - Ancient Vault
+- Ancient Vault
+Coffre-fort ancien
 # :: DungeonNameGoldVault
 # :: KDSideRoom_GoldVault
-# - Ancient Halls
-# - Slave Market
-# - Elevator Hall
+- Ancient Halls
+Salles anciennes
+- Slave Market
+Marché aux esclaves
+- Elevator Hall
+Salle des ascenseurs
 # :: DungeonNameElevatorRoom
 # :: KDSideRoom_ElevatorRoom
-# - Dark Passageway
+- Dark Passageway
+Passage sombre
 # :: DungeonNameElevatorEgyptian
 # :: KDSideRoom_ElevatorEgyptian
 # :: KDSideRoom_ElevatorEgyptian2
-# - Caldera Beach
-# - Temple of Air
-# - Temple of Fire
-# - Temple of Water
-# - Temple of Ice
-# - Temple of Storms
-# - Temple of Earth
-# - The Edge of Reality
+- Caldera Beach
+Plage de la caldeira
+- Temple of Air
+Temple de l'Air
+- Temple of Fire
+Temple du Feu
+- Temple of Water
+Temple de l'Eau
+- Temple of Ice
+Temple de la Glace
+- Temple of Storms
+Temple des Tempêtes
+- Temple of Earth
+Temple de la Terre
+- The Edge of Reality
+Le bord de la réalité
 # :: DungeonNameDemonTransition
 # :: DungeonNameDemonEscape
-# - Dark Dimension
-# - Lair
+- Dark Dimension
+Dimension obscure
+- Lair
+Antre
 # :: DungeonNameDragonLair
 # :: KDRoomType_DragonLair
 
